@@ -33,7 +33,7 @@ class SpaceShit {
         this.mx = 0;
         this.my = 0;
         this.angle = 180;
-        this.drag = 0.025;
+        this.drag = 0.015;
         this.turn = 2;
         this.points = [];
 
